@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from Commands.api import *
+from Commands import *
 
 # Layer 4
 from Commands.Layer4.tcp import tcp
